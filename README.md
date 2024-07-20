@@ -1,3 +1,62 @@
+### Welcome to ShopSphere - Your E-commerce Platform
+
+Welcome to the client side of ShopSphere, an e-commerce-like platform designed to enhance your shopping experience with a range of essential features and a user-friendly interface.
+
+### Features Overview
+
+Smooth User Interaction: Enjoy a visually captivating interface that enhances your shopping pleasure.
+
+Category Wise Filter & Product Show: Effortlessly browse and discover your favorite products with intuitive category filters.
+
+Powerful Product Search: Find exactly what you need within seconds using our lightning-fast search tool.
+
+Similar Product Show: Discover related products from the same category for each item, enhancing your browsing experience.
+
+Save Your Favorites: Add to Cart & Wishlist: Easily save items to your cart or wishlist, ensuring you never lose track of what you love.
+
+Smooth Checkout: Place orders seamlessly and review your past orders for convenience.
+
+Secure Access - Robust Authentication: Shop with confidence thanks to our secure authentication system, ensuring your information remains safe.
+
+### Tech Stack Used
+
+## Frontend: 
+    Built using React for a responsive and dynamic user interface.
+
+## Styling: 
+    Tailwind CSS is utilized for efficient and flexible styling.
+
+## Backend API Hosted URL
+
+    Backend API: Hosted on Render at https://shopsphere-backend-ly5c.onrender.com/.
+
+## Frontend Hosting
+
+Frontend: Hosted on Vercel.
+
+## Live Link: 
+    https://shopsphereaccenturefrontend-q1rnumsbd-anandas-projects-91946f99.vercel.app/.
+
+Collaboration and Contributions
+
+The frontend is hosted using "Import Third-Party Git Repository" feature associated with GitHub repository "Ananda-2". Any changes made to the main repository will be directly reflected on the website.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
